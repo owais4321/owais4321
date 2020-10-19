@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 ### Hello 👋 Hola 👋 Bonjour 👋 Nǐn hǎo 👋 Guten Tag 👋 
 
 # I am Owais Raza.
-### owais.leghari@hotmail.com
 - ##### I am Software Engineer :computer:  
 - ##### I’m currently working on 🔭 Machine Learning with Python :snake: 
 - ##### I have also worked with 🔭 Javascript to create web :computer: and mobile application :iphone: I am able to write backend with Node JS  
@@ -30,8 +29,10 @@ Here are some ideas to get you started:
 <p align="center">
 
 # Connect with me
-
 <p align="center">
+
+### owais.leghari@hotmail.com
+
   <a href="http://portfolio.owaisraza.codes/"> <img style="margin:20px" width="70" height="70" src="https://lh3.googleusercontent.com/proxy/HPmAiU2k8z038dgQKTyeVxRsielOv7ALRiM44gdPTx0Qzs2_rV0dF8ssyea-9dA5EU7w0EK_tKn4_eY6FkMVI4UBpv88VxmCyPp5_sPJtWAenST--P1mZ1nEH5ZvHyGwrStN6A"></a>
 <a href="https://www.linkedin.com/in/owais-raza-1bb981168/">  <img style="margin:20px" width="70" height="70" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background.png"></a>
   <a href="https://medium.com/@owaisr814"><img style="margin:20px" width="70" height="70" src="https://miro.medium.com/max/390/1*emiGsBgJu2KHWyjluhKXQw.png"></a>
