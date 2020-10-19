@@ -36,3 +36,6 @@ Here are some ideas to get you started:
   <img style="margin:20px" width="70" height="70" src="https://www.freeiconspng.com/thumbs/facebook-logo-png/facebook-transparent-logo-png-0.png">
   <img style="margin:20px" width="70" height="70" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg">
 </p>
+<p align="center">
+  <img width="100%" height="100%" src="https://art.pixilart.com/03bd4d064bd6713.gif">
+</p>
