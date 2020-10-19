@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - ##### I’m looking to collaborate 👯 on Python :snake: Machine Learning and Javascript Project
 
 # Connect with me
+
 ### owais.leghar@hotmail.com
 
 <p align="center">
@@ -38,6 +39,7 @@ Here are some ideas to get you started:
   <a href="https://web.facebook.com/neorologist/"><img style="margin:20px" width="70" height="70" src="https://www.freeiconspng.com/thumbs/facebook-logo-png/facebook-transparent-logo-png-0.png"></a>
   <a href="https://www.instagram.com/coding_bahkt/?hl=en"><img style="margin:20px" width="70" height="70" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg"></a>
 </p>
+
 <p align="center">
   <img width="100%" height="100%" src="https://art.pixilart.com/03bd4d064bd6713.gif">
 </p>
