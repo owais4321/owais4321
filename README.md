@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 - ##### I have also worked with 🔭 Javascript to create web :computer: and mobile application :iphone: I am able to write backend with Node JS  
 - ##### I have 5 reasearch publication :page_facing_up:.
 - ##### I’m looking to collaborate 👯 on Python :snake: Machine Learning and Javascript Project
-# Connect with me
+<p align="center">
+# Connect with 
+me
 <p align="center">
   <img style="margin:20px" width="70" height="70" src="https://lh3.googleusercontent.com/proxy/HPmAiU2k8z038dgQKTyeVxRsielOv7ALRiM44gdPTx0Qzs2_rV0dF8ssyea-9dA5EU7w0EK_tKn4_eY6FkMVI4UBpv88VxmCyPp5_sPJtWAenST--P1mZ1nEH5ZvHyGwrStN6A">
   <img style="margin:20px" width="70" height="70" src="https://www.freepnglogos.com/uploads/logo-outlook-png/file-microsoft-office-outlook-logo-present-svg-wikipedia-1.png">
@@ -39,3 +41,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img width="100%" height="100%" src="https://art.pixilart.com/03bd4d064bd6713.gif">
 </p>
+# Github Stats
+![Owais GitHub statistic](https://github-readme-stats.vercel.app/api?username=owais4321&show_icons=true)
