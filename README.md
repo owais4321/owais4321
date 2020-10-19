@@ -26,12 +26,13 @@ Here are some ideas to get you started:
 - ##### I have also worked with 🔭 Javascript to create web :computer: and mobile application :iphone: I am able to write backend with Node JS  
 - ##### I have 5 reasearch publication :page_facing_up:.
 - ##### I’m looking to collaborate 👯 on Python :snake: Machine Learning and Javascript Project
-<p align="center">
 
 # Connect with me
+### owais.leghar@hotmail.com
+
 <p align="center">
   
-  <a href="http://portfolio.owaisraza.codes/"> <img style="margin:20px" width="70" height="70" src="https://lh3.googleusercontent.com/proxy/HPmAiU2k8z038dgQKTyeVxRsielOv7ALRiM44gdPTx0Qzs2_rV0dF8ssyea-9dA5EU7w0EK_tKn4_eY6FkMVI4UBpv88VxmCyPp5_sPJtWAenST--P1mZ1nEH5ZvHyGwrStN6A"></a>
+ <a href="http://portfolio.owaisraza.codes/"> <img style="margin:20px" width="70" height="70" src="https://lh3.googleusercontent.com/proxy/HPmAiU2k8z038dgQKTyeVxRsielOv7ALRiM44gdPTx0Qzs2_rV0dF8ssyea-9dA5EU7w0EK_tKn4_eY6FkMVI4UBpv88VxmCyPp5_sPJtWAenST--P1mZ1nEH5ZvHyGwrStN6A"></a>
 <a href="https://www.linkedin.com/in/owais-raza-1bb981168/">  <img style="margin:20px" width="70" height="70" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background.png"></a>
   <a href="https://medium.com/@owaisr814"><img style="margin:20px" width="70" height="70" src="https://miro.medium.com/max/390/1*emiGsBgJu2KHWyjluhKXQw.png"></a>
   <a href="https://web.facebook.com/neorologist/"><img style="margin:20px" width="70" height="70" src="https://www.freeiconspng.com/thumbs/facebook-logo-png/facebook-transparent-logo-png-0.png"></a>
